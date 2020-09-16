@@ -1,16 +1,21 @@
-### Hi there 👋
+### Education 👨‍💻
 
-<!--
-**changheedev/changheedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Naver Boostcamp 2020 멤버십 (진행중)
 
-Here are some ideas to get you started:
+- Naver Boostcamp 2020 챌린지 (수료)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 경북대학교 컴퓨터학부 복수전공 (졸업)
+
+<br>
+
+### Interest 👀
+
+- Web BackEnd
+
+- Java, Spring, Node.js
+
+<br>
+
+### Contacts 📫
+
+- Email: [changhee.dev@gmail.com](mailto:changhee.dev@gmail.com)
