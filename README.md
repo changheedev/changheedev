@@ -1,6 +1,6 @@
 ### Education 👨‍💻
 
-- Naver Boostcamp 2020 멤버십 (진행중)
+- Naver Boostcamp 2020 멤버십 (수료)
 
 - Naver Boostcamp 2020 챌린지 (수료)
 
@@ -9,9 +9,9 @@
 
 ### Interest 👀
 
-- Web BackEnd
+- Web BackEnd, DevOps
 
-- Java, Spring, Node.js
+- Java, Spring, Node.js, Docker
 
 
 ### Contacts 📫
